@@ -1,0 +1,40 @@
+---------- ¿Que es el Head HTML? ----------
+
+En HTML, un <header> es una etiqueta que representa un grupo de contenido 
+introductorio o de navegación, y a menudo contiene el título de la página, 
+el logotipo, un formulario de búsqueda y la navegación principal. 
+Es una parte de una página web que suele repetirse en todas las secciones y 
+contiene información importante, como la marca de la web, enlaces a otras páginas y 
+un buscador.
+
+
+---------- Metadatos ----------
+
+Los metadatos HTML son información sobre el contenido de una página web, 
+no el contenido en sí, que se encuentra en el elemento <head> del documento y no 
+es visible para el usuario. Se utilizan para ayudar a los navegadores y a los motores 
+de búsqueda a entender el propósito y el contenido de la página, incluyendo el título, 
+la descripción, el autor, el conjunto de caracteres y las instrucciones para los robots 
+de búsqueda
+
+            estructura de un metadato
+<meta name="metadato" content="valor" http-equiv="cabecera-http" schema="esquema">
+
+
+---------- Web Responsive ----------
+
+Un diseño web responsive (o adaptable) es un enfoque de desarrollo que hace que un sitio web 
+se ajuste automáticamente al tamaño de la pantalla y al dispositivo en el que se visualiza, 
+como un ordenador, tableta o smartphone. Esto asegura que los usuarios tengan una 
+experiencia de visualización óptima, con elementos (texto, imágenes, botones) 
+que redimensionan o reordenan de forma fluida para adaptarse a cualquier pantalla, 
+mejorando la usabilidad y la accesibilidad
+
+
+---------- Cookie ----------
+
+es un pequeño fragmento de texto que un sitio web envía a tu navegador para almacenar 
+información sobre tu visita y preferencias. Los navegadores guardan estas cookies y las 
+envían de vuelta al sitio web en solicitudes futuras, lo que permite al sitio "recordar" 
+información, como productos añadidos a un carrito de compras, datos de inicio de sesión o 
+preferencias de personalización, y así hacer la experiencia más útil y personalizada.
